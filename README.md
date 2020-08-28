@@ -1,6 +1,9 @@
 [![](https://github-readme-stats.vercel.app/api?username=hangyeol0531&show_icons=true&hide_border=true)]((https://github.com/hangyeol0531))
-
-I like JavaScript
+ 
+😀 I like JavaScirpt, Discord.js, Node.js<br>
+<br>
+😃 Now Learning(And will)
+Java Servlet, Spring<br>
 
 <!--
 **hangyeol0531/hangyeol0531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
