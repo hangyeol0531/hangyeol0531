@@ -1,7 +1,7 @@
 ## 🖐 Hello, I'm Jeong Hangyeol, who wants to be a Back-End Developer
 ### 🎓 Gwangju Software Meister School (2018.03 ~ 2021.01)
 
-[![](https://github-readme-stats.vercel.app/api?username=hangyeol0531&show_icons=true&hide_border=true&theme=slateorange)](https://github.com/hangyeol0531)<br><br>
+[![](https://github-readme-stats.vercel.app/api?username=hangyeol0531&show_icons=true&hide_border=true&theme=algolia)](https://github.com/hangyeol0531)<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/hangyeol0531)<br>
 ### 💻 I like ...
 <ul>
