@@ -16,6 +16,7 @@
  <li>Flask</li>
  <li>Spring</li>
  <li>React.js</li>
+ <li>AI(MachineLearing + DeepLearing)</li>
 </ul>
 <hr>
 
