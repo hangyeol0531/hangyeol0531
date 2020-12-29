@@ -1,6 +1,5 @@
 ## 🖐 Hello, I'm Jeong Hangyeol, who wants to be a Back-End Developer
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/hangyeol0531)<br><br>
-[![](https://github-readme-stats.vercel.app/api?username=hangyeol0531&show_icons=true&hide_border=true&theme=algolia)](https://github.com/hangyeol0531)<br>
 ### 💻 I like ...
 <ul>
  <li>JavaScript</li>
