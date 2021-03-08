@@ -1,5 +1,5 @@
 ## 🖐 Hello, I'm Jeong Hangyeol, who wants to be a Back-End Developer
-<div style = "text-align : center"><img width = "60%" src = "https://user-images.githubusercontent.com/41174265/110336953-b5cd0b00-8068-11eb-93da-0f44de7a0e05.png"></div>
+<center> <img width = "60%" src = "https://user-images.githubusercontent.com/41174265/110336953-b5cd0b00-8068-11eb-93da-0f44de7a0e05.png"> </center>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/hangyeol0531)<br> -->
 
