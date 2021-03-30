@@ -17,7 +17,7 @@
  <li>TypeScript</li>
  <li>Flask</li>
  <li>Spring</li>
- <li>React.js</li>
+ <li>React Native</li>
  <li>AI(MachineLearing + DeepLearing)</li>
 </ul>
 <hr>
