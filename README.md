@@ -2,11 +2,6 @@
 
 ### hangyeol0531 | 정한결
 ![hangyeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=hangyeol0531&count_private=true&theme=highcontrast)
-### Career
-
-- (주)헬프미 | Backend Engineer | 2021.06 ~ ing
-    - 산업기능요원 복무 ( 2022.01 ~ ing ) | 육군훈련소 수료
-    - 스탠바이랩(주)로 상호 변경
 
 ### Tech
 
