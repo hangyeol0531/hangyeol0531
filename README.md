@@ -3,7 +3,7 @@
 
 ### Tech
 - Node.js + Typescript
-- Java, SpringBoot, JPA, QueryDSL
+- Java, SpringBoot, JPA, QueryDSL
 - AWS Services ( VPC, Route53, EC2, ECS, ECR, S3, EventBridge, IAM, Lambda, API Gateway, etc... )
 - and More ( Docker, Github Actions, Puppeteer, Serverless, Redis, etc ... )
 
