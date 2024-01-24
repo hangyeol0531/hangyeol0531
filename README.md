@@ -3,8 +3,9 @@
 
 ### Tech
 - Node.js + Typescript
+- Java, SpringBoot, JPA, QueryDSL
 - AWS Services ( VPC, Route53, EC2, ECS, ECR, S3, EventBridge, IAM, Lambda, API Gateway, etc... )
-- and More ( Docker, Github Actions, Puppeteer, Serverless, Redis, Spring, JPA, QueryDSL, etc ... )
+- and More ( Docker, Github Actions, Puppeteer, Serverless, Redis, etc ... )
 
 ### Information
 - Github Resume: https://github-resume.consistent.kr/hangyeol0531
