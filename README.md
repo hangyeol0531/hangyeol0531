@@ -8,7 +8,6 @@
 - and More ( Docker, Github Actions, Puppeteer, Serverless, Redis, etc ... )
 
 ### Information
-- Github Resume: https://github-resume.consistent.kr/hangyeol0531
 - Npm: https://www.npmjs.com/~hangyeol_0531
 - Linkedin: https://www.linkedin.com/in/hangyeol-jeong-9622b2185/
 
