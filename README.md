@@ -1,12 +1,6 @@
 ### hangyeol0531 | 정한결
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hangyeol0531&theme=default)
 
-### Tech
-- Node.js + Typescript
-- Java, SpringBoot, JPA, QueryDSL
-- AWS Services ( VPC, Route53, EC2, ECS, ECR, S3, EventBridge, IAM, Lambda, API Gateway, etc... )
-- and More ( Docker, Github Actions, Puppeteer, Serverless, Redis, etc ... )
-
 ### Information
 - Npm: https://www.npmjs.com/~hangyeol_0531
 - Linkedin: https://www.linkedin.com/in/hangyeol-jeong-9622b2185/
