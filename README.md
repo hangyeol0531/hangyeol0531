@@ -1,5 +1,7 @@
 ### hangyeol0531 | 정한결
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hangyeol0531&theme=default)
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/hangyeol0531"/>
+</a>
 
 ### Information
 - Npm: https://www.npmjs.com/~hangyeol_0531
